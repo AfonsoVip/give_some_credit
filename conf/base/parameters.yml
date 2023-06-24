@@ -1,0 +1,11 @@
+test_size: 0.2
+random_state: 42
+raw_data_path: data/01_raw/data.csv
+x_test_extra_path: data/01_raw/cs-test.csv
+shap_output_path: data/08_reporting/shap_plot.png
+cv: 5
+output_dir: data/04_feature
+feature_selection: False
+output_filepath: data/08_reporting/results.txt
+overfitting_output_path: data/08_reporting/overfit.png
+mlflow_artifacts_directory: data/08_reporting

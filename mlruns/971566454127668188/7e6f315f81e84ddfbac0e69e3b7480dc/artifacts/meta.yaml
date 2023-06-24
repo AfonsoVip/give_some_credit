@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Afonso/Desktop/Afonso/New%20folder/give-me-some-credit/mlruns/971566454127668188/7e6f315f81e84ddfbac0e69e3b7480dc/artifacts
+end_time: 1687483808799
+entry_point_name: ''
+experiment_id: '971566454127668188'
+lifecycle_stage: active
+run_id: 7e6f315f81e84ddfbac0e69e3b7480dc
+run_name: feature_selection_True_Scaling
+run_uuid: 7e6f315f81e84ddfbac0e69e3b7480dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687483068919
+status: 3
+tags: []
+user_id: Afonso
